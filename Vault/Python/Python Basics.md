@@ -11,10 +11,10 @@ In python, comments are created by using the `#` symbol. Comments are used to ex
 
 `#this is a comment`
 `#this is also a comment`
-`#single-line comments cannot be split over multiple lines. If you try to do so, you will get a syntax error.`
+`#single-line comments are good for short comments`
 
- To create a multi-line comment, you can use triple quotes `'''` or `"""`. 
-`'''This is a multi-line comment. This is a multi-line comment. This is a multi-line comment.'''`
+ To create a multi-line comment, you can use triple quotes `'''` or `"""`. This is useful when you want to write a comment that spans multiple lines, such as a detailed explanation of a function or a block of code. Multi-line comments are also known as docstrings, which are used to document functions, classes, and modules in Python.
+
 
  
 
