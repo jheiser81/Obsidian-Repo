@@ -2,11 +2,13 @@
 
 ## Table of Contents
 1. [Comments](#Comments)
+	1. [Single-line comments](Single-Line%20Comments)
 
 ## Comments
 `#prints the words "Hello World"`
 `print('Hello World')`
 
+### Single-Line Comments
 In python, comments are created by using the `#` symbol. Comments are used to explain the code and make it easier to understand. Comments are ignored by the python interpreter and are not executed. The # is used to create a single line comment.
 
 `#this is a comment`
