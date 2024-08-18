@@ -4,8 +4,8 @@
 1. [Comments](#Comments)
 
 ## Comments
-`#prints the words "Hello World"
-print('Hello World')`
+<font color="#ff0000">`#prints the words "Hello World"`</font>
+<font color="#ff0000">`print('Hello World')`</font>
 
 In python, comments are created by using the `#` symbol. Comments are used to explain the code and make it easier to understand. Comments are ignored by the python interpreter and are not executed. The # is used to create a single line comment.
 
