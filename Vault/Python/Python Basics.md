@@ -1,8 +1,8 @@
 #python #basic_syntax 
 
 ## Table of Contents
-- [Comments](#Comments)
-	- [Single-line comments](#Single-Line%20Comments)
+- [[#Comments]]
+	- [[#Single-Line Comments]]
 	- [Multi-line Comments](#Multi-Line%20Comments)
 - [Print Command](#Print%20Command)
 
@@ -26,9 +26,13 @@ In python, comments are created by using the `#` symbol. Comments are used to ex
 ```
 '''This is a multi-line comment. It can span multiple lines and is typically used to create docstrings, which are used to provide detailed explanations of functions, classes, and modules in Python.'''
 ```
-
 ### Print Command
-In Python, the "print" command is used to output to the 
- 
+In Python, the "print" command is used to output to the console or terminal. The print command can be used to display text, numbers, variables, and expressions. The syntax for the print command is as follows:
+
+```
+print('Hello World')
+```
+
+Note that in order to print text, which is known as a string, text must be enclosed in either single quotes ' ' or double quotes " ". Printing numbers or variables does not require quotes.
 
 
