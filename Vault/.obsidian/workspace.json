@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50379180908203
+    "width": 226.50379180908203,
+    "collapsed": true
   },
   "right": {
     "id": "35cc5d051e61e776",
@@ -133,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86552ef97bad4d33",
+  "active": "78e28743712e29b7",
   "lastOpenFiles": [
     "Phil 1101/Critical Thinking Concept Guide.md",
     "Python/Python Basics.md",
