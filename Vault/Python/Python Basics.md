@@ -1,8 +1,9 @@
 #python #basic_syntax 
 
 ## Table of Contents
-1. [Comments]
+1. [[#Comments]]
 	1. [[#Single-Line Comments]]
+	2. [[#]]
 
 ## Comments
 `#prints the words "Hello World"`
