@@ -48,6 +48,7 @@ Variables are names given to pieces of data that we want to store and manipulate
 ```python
 userAge = 43
 userName = 'Joel'
+print(userAge ',' userName)
 ```
 
 Once a variable is created and a value is assigned to it, the value is stored in memory. This variable (and its value) can then be "called" by referring to it by name. The value of a variable can also be reassigned using `=`.
