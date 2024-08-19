@@ -191,9 +191,13 @@ y = -10
 z = str(20) #here z is a string
 z = int(z) #now z is an integer)
 print(x, y, z)
-
-#You can check the type of a variable using the built-in type function
-print(f'{x} is of type {type(x)}')
-print(f'{y} is of type {type(y)}')
-print(f'{z} is of type {type(z)}')
 ```
+### Floats
+Floats are numbers that have decimal points, such as 2.5, 3.14, etc. Floats can be positive or negative. Like integers, floats are automatically interpreted by the Python interpreter, but you can explicitly define a float using the `float()` function.
+```python
+x = 3.14
+y = -2.5
+z = 5.5
+print(x, y, z)
+```
+### Characters and Strings
