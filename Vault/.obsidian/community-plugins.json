@@ -1,9 +1,8 @@
 [
-  "editing-toolbar",
-  "obsidian-git",
-  "github-copilot",
   "code-styler",
   "execute-code",
   "open-vscode",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-git",
+  "github-copilot"
 ]
