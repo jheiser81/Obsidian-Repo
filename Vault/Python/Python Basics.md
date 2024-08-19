@@ -53,3 +53,10 @@ Multiple variables can be initialized and defined in one line by separating the 
 userAge, userName = 43, 'Joel'
 ```
 
+### Naming Variables
+Variable names can only contain letters (lowercase or uppercase), numbers or underscores. However, the first character of a variable cannot be a number.
+
+```
+userName
+user_name
+```
