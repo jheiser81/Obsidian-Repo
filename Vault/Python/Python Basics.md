@@ -7,6 +7,10 @@
 - [[#Variables and Operators]]
 	- [[#Creating and Defining Variables]]
 	- [[#The Assignment Operator]]
+	- [[#Basic Operators]]
+	- [[#Shorthand Operators]]
+- 
+	
 ## Comments
 
 ```
@@ -107,6 +111,7 @@ print( x % y) #prints 1
 #Exponent (raises the first number to the power of the second number)
 print(x ** y) #prints 25 (5^2 or 5*5)
 ```
+### Shorthand Operators
 In addition to the basic math operators, Python (and other programming languages) also use shorthand operators, which combine a math operator with the assignment operator. For example, `+=` is a shorthand operator that adds the value on the right to the variable on the left. This is equivalent to `x = x + y`.
 
 ```

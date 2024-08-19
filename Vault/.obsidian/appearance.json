@@ -4,5 +4,7 @@
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "baseFontSize": 16,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "accentColor": "#57c0f4",
+  "nativeMenus": false
 }
