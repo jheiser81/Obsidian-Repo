@@ -107,7 +107,7 @@ print( x % y) #prints 1
 #Exponent (raises the first number to the power of the second number)
 print(x ** y) #prints 25 (5^2 or 5*5)
 ```
-In addition to the basic math operators, Python (and other programming languages) also use compound operators, which combine a math operator with the assignment operator. For example, `+=` is a compound operator that adds the value on the right to the variable on the left. This is equivalent to `x = x + y`.
+In addition to the basic math operators, Python (and other programming languages) also use shorthand operators, which combine a math operator with the assignment operator. For example, `+=` is a shorthand operator that adds the value on the right to the variable on the left. This is equivalent to `x = x + y`.
 
 ```
 x = 5
@@ -116,6 +116,19 @@ y = 2
 x += y
 print(x) 
 #This will print 7, because x += y is equivalent to x = x + y
+
+x -= y
+print(x)
+#This will print 5, because x -= y is equivalent to x = x - y
+
+x *= y
+print(x)
+#This will print 10, because x *= y is equivalent to x = x * y
+
+x /= y
+print(x)
+#This will print 5.0, because x /= y is equivalent to x = x / y
+
 ```
 
 
