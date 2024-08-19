@@ -13,14 +13,14 @@
 	
 ## Comments
 
-```
+```python
 #prints the words "Hello World"
 print('Hello World')
 ```
 ### Single-Line Comments
 In python, comments are created by using the `#` symbol. Comments are used to explain the code and make it easier to understand. Comments are ignored by the python interpreter and are not executed. The # is used to create a single line comment.
 
-```
+```python
 #this is a comment
 #this is also a comment
 #single-line comments are good for brief notes
@@ -28,7 +28,7 @@ In python, comments are created by using the `#` symbol. Comments are used to ex
 ### Multi-Line Comments
  To create a multi-line comment, you can use triple quotes `'''` or `"""`. This is useful when you want to write a comment that spans multiple lines, such as a detailed explanation of a function or a block of code. Multi-line comments are also known as docstrings, which are used to document functions, classes, and modules in Python.
 
-```
+```python
 '''This is a multi-line comment. It can span multiple lines and is typically used to create docstrings, which are used to provide detailed explanations of functions, classes, and modules in Python.'''
 ```
 ## Print Command
@@ -138,9 +138,7 @@ print(x)
 ### Comparison Operators
 In addition to math operators, Python also uses comparison operators, such as `==`, `!=`, `>`, `<`, `>=`, and `<=`. These operators are used to compare two values and return a boolean value (True or False) based on the comparison.
 
-```
-
-
+```python
 x = 5
 y = 2
 
@@ -166,7 +164,7 @@ print(x <= y) #prints False
 ### Logical Operators
 Python also uses logical operators, such as `and`, `or`, and `not`, to combine multiple conditions and return a boolean value based on the result. 
 
-```python
+```Python
 x = 5
 y = 2
 z = 7
@@ -175,3 +173,5 @@ z = 7
 print(x > y and x < z) #prints True
 
 
+
+```
