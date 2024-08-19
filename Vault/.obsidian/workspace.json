@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Python/Python Basics.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50379180908203
+    "width": 226.50379180908203,
+    "collapsed": true
   },
   "right": {
     "id": "35cc5d051e61e776",
@@ -148,15 +149,15 @@
   },
   "active": "4d3f18080260b8bd",
   "lastOpenFiles": [
-    "Comments.md",
+    "Phil 1101/Critical Thinking Concept Guide.md",
     "Python/Python Basics.md",
+    "Phil 1101/Philosophy Concept Guide.md",
+    "Phil 1101/Induction and Causation.md",
+    "Comments.md",
     "[Single-Line Comments.md",
     "Single-line comments.md",
     "Single-Line Comments.md",
-    "Phil 1101/Critical Thinking Concept Guide.md",
     "Single-line Comments.md",
-    "Phil 1101/Philosophy Concept Guide.md",
-    "Phil 1101/Induction and Causation.md",
     "Phil 1101",
     "Python",
     "Welcome.md"

@@ -136,5 +136,6 @@ print(x)
 
 ```
 
+In addition to math operators, Python also uses comparison operators, such as 
 
 
