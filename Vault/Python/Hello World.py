@@ -5,4 +5,4 @@ print("Hello World")
 '''This is a multi-line comment. 
 It is used to describe the code that follows it.'''
 
-2username 
+2username = "John" #This is an invalid variable name because it starts with a number

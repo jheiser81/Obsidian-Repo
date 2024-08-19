@@ -57,6 +57,8 @@ userAge, userName = 43, 'Joel'
 Variable names can only contain letters (lowercase or uppercase), numbers or underscores. However, the first character of a variable cannot be a number.
 
 ```
-userName
-user_name
+userName = 'John'
+user_name = 'John'
+2username = "John" is an invalid variable name because it starts with a number
 ```
+
