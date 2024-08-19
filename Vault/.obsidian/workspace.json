@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +148,7 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "d615ce624035f17c",
+  "active": "2fc1978d85e88e60",
   "lastOpenFiles": [
     "Python/Hello World.py",
     "Python/Python Basics.md",
