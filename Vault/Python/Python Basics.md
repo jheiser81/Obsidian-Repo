@@ -191,4 +191,6 @@ y = -10
 z = str(20) #here z is a string
 z = int(z) #now z is an integer)
 print(x, y, z)
+
+print(f)
 ```
