@@ -63,4 +63,4 @@ user_name = 'John'
 
 `2username = "John"` is an invalid variable name because it starts with a number
 
-Variable names are also case sensitive, so `userName` and `UserName` would be different variables. In Python, variables are usually created using camelcase or underscores. Camelcase 
+Variable names are also case sensitive, so `userName` and `UserName` would be different variables. In Python, variables are usually created using camel case or underscores. Camel case is the practice of making compound words using mixed casing (`userName`), while underscores use a `_` to separate words. Sometimes these are combined, such as in `user_Name`. Which naming convention you use is not really important, so long as you are consistent. 
