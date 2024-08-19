@@ -100,5 +100,11 @@ print(x / y) #prints 2.5
 
 #Floor Division (rounds down to the nearest whole number)
 print(x // y) #prints 2
+
+#Modulus (returns the remainder of the division)
+print( x % y) #prints 1
+
+#Exponent (raises the first number to the power of the second number)
+print(x ** y) #prints 25 (5^2 or 5*5)
 ```
 
