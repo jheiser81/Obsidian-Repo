@@ -183,4 +183,11 @@ print(not x > y) #prints False
 ```
 ## Data Types
 In Python, every variable has a data type, which determines what kind of value it is and how it can be used. Python has several built-in data types, including integers, floats, strings, lists, tuples, dictionaries, and booleans.
-
+### Integers
+Integers are whole numbers, such as -1, 0, 1, 2, 3, etc. Integers can be positive or negative, but they cannot have decimal points. The Python interpreter automatically interprets numbers without decimal points as integers, so you do not need to specify the data type in most cases. However, you can explicitly define an integer by using the `int()` function. This is useful for certain use cases, such as converting a string to an integer.
+```python
+x = 5
+y = -10
+z = int(3.14)
+print(x, y, z)
+```
