@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Python/Python Basics.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50379180908203
+    "width": 226.50379180908203,
+    "collapsed": true
   },
   "right": {
     "id": "35cc5d051e61e776",
@@ -130,11 +131,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +150,7 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "2fc1978d85e88e60",
+  "active": "d615ce624035f17c",
   "lastOpenFiles": [
     "Python/Hello World.py",
     "Python/Python Basics.md",

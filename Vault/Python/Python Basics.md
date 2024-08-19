@@ -180,4 +180,6 @@ print(x > y or x > z) #prints True
 #Not operator (returns True if the condition is False)
 print(not x > y) #prints False
 ```
+## Data Types
+In Python, every value has a data type, which determines what kind of value it is and how it can be used. Python has several built-in data types, including integers, floats, strings, lists, tuples, dictionaries, and booleans.
 
