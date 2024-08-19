@@ -59,6 +59,8 @@ Variable names can only contain letters (lowercase or uppercase), numbers or und
 ```
 userName = 'John'
 user_name = 'John'
-2username = "John" is an invalid variable name because it starts with a number
 ```
 
+`2username = "John"` is an invalid variable name because it starts with a number
+
+Variable names are also case sensitive, so `userName` and `UserName` would be different variables. In Python, variables are usually created using camelcase or underscores. Camelcase 
