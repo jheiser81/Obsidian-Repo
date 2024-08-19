@@ -48,7 +48,7 @@ Variables are names given to pieces of data that we want to store and manipulate
 ```python
 userAge = 43
 userName = 'Joel'
-print(userAge ',' userName)
+print(userAge, userName)
 ```
 
 Once a variable is created and a value is assigned to it, the value is stored in memory. This variable (and its value) can then be "called" by referring to it by name. The value of a variable can also be reassigned using `=`.
@@ -57,14 +57,15 @@ Multiple variables can be initialized and defined in one line by separating the 
 
 ```python
 userAge, userName = 43, 'Joel'
+print(userAge, userName)
 ```
-
 ### Naming Variables
 Variable names can only contain letters (lowercase or uppercase), numbers or underscores. However, the first character of a variable cannot be a number.
 
 ```python
 userName = 'John'
 user_name = 'John'
+print(userName, user_name)
 ```
 
 `2username = "John"` is an invalid variable name because it starts with a number
@@ -107,10 +108,10 @@ print(x / y) #prints 2.5
 print(x // y) #prints 2
 
 #Modulus (returns the remainder of the division)
-print( x % y) #prints 1
+print(x % y) #prints 1
 
 #Exponent (raises the first number to the power of the second number)
-print(x ** y) #prints 25 (5^2 or 5*5)
+#print(x ** y) #prints 25 (5^2 or 5*5)
 ```
 ### Shorthand Operators
 In addition to the basic math operators, Python (and other programming languages) also use shorthand operators, which combine a math operator with the assignment operator. For example, `+=` is a shorthand operator that adds the value on the right to the variable on the left. This is equivalent to `x = x + y`.
