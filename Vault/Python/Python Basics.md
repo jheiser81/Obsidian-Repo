@@ -141,7 +141,24 @@ In addition to math operators, Python also uses comparison operators, such as `=
 x = 5
 y = 2
 
-print(x == y) #checks if x is equal to y, prints False
-print(x != y) #checks if x is NOT equal to y, prints True
+#Equality operator (checks if two values are equal)
+print(x == y) #prints False
+
+#Inequality operator (checks if two values are not equal)
+print(x != y) #prints True
+
+#Greater than operator (checks if the first value is greater than the second)
+print(x > y) #prints True
+
+#Less than operator (checks if the first value is less than the second)
+print(x < y) #prints False
+
+#Greater than or equal to operator (checks if the first value is greater than OR equal to the second)
+print(x >= y) #prints True
+
+#Less than or equal to operator (checks if the first value is less than OR equal to the second)
+print(x <= y) #prints False
+```
+
 
 
