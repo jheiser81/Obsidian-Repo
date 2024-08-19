@@ -205,5 +205,13 @@ Characters and strings are used to represent text in Python. Characters are sing
 ```python
 char = 'a'
 string = "Hello, World!"
-print('char\nstring')
+print(char, string)
+```
+
+Strings can be joined together using the `+` operator, which is known as concatenation. 
+```python
+string1 = 'Hello, '
+string2 = 'World!'
+string3 = string1 + string2
+print(string3)
 ```
