@@ -228,4 +228,17 @@ There are many ways to manipulate strings in Python. Some common string operatio
 - `lower()`: Converts a string to lowercase
 - `upper()`: Converts a string to uppercase
 - `strip()`: Removes whitespace from the beginning and end of a string
-- 
+- `replace()`: Replaces a substring with another substring
+- `split()`: Splits a string into a list of substrings based on a delimiter
+- `join()`: Joins a list of strings into a single string
+```python
+string = ' Hello, World! '
+print(len(string)) #prints 15
+print(string.lower()) #prints ' hello, world! '
+print(string.upper()) #prints ' HELLO, WORLD! '
+print(string.strip()) #prints 'Hello, World!'
+print(string.replace('World', 'Alice')) #prints ' Hello, Alice! '
+print(string.split(',')) #prints [' Hello', ' World! ']
+print(','.join(['Hello', 'World'])) #prints 'Hello,World'
+```
+	
