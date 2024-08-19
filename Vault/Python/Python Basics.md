@@ -86,7 +86,8 @@ Besides the assignment operator, Python also uses the basic mathematical operato
 ```
 x = 5, y = 2
 
-#Addition:
-x + y 
+#Addition
+print(x + y)
+#prints 7
 ```
 
