@@ -135,7 +135,13 @@ print(x)
 #This will print 5.0, because x /= y is equivalent to x = x / y
 
 ```
+In addition to math operators, Python also uses comparison operators, such as `==`, `!=`, `>`, `<`, `>=`, and `<=`. These operators are used to compare two values and return a boolean value (True or False) based on the comparison.
 
-In addition to math operators, Python also uses comparison operators, such as 
+```
+x = 5
+y = 2
+
+print(x == y) #checks if x is equal to y, prints False
+print(x != y) #checks if x is NOT equal to y, prints True
 
 
