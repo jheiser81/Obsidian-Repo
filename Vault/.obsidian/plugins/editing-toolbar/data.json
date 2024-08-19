@@ -278,6 +278,11 @@
       "id": "editing-toolbar:workplace-fullscreen-focus",
       "name": "workplace-Fullscreen ",
       "icon": "exit-fullscreen"
+    },
+    {
+      "id": "workspace:toggle-stacked-tabs",
+      "name": "Toggle stacked tabs",
+      "icon": "lucide-layers"
     }
   ],
   "appendMethod": "workspace",
