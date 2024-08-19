@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de002944ebe91a76",
+        "id": "7085b9abc70a884f",
         "type": "tabs",
         "children": [
           {
-            "id": "9fa8c465a52f5e73",
+            "id": "1cc502c2a0772dc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fa8c465a52f5e73",
+  "active": "63072abee8eee96e",
   "lastOpenFiles": [
-    "[Single-Line Comments.md",
     "Python/Python Basics.md",
+    "[Single-Line Comments.md",
     "Single-line comments.md",
     "Single-Line Comments.md",
     "Phil 1101/Critical Thinking Concept Guide.md",
