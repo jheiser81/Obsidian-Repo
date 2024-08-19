@@ -218,3 +218,14 @@ print(string3)
 
 Although concatenation is useful, it can be cumbersome and make code difficult to read, especially when working with long strings or multiple  variables of different types. For this reason, Python also supports string interpolation, or formatted strings (f-strings), which allows you to insert variables directly into a string using the `f` prefix and curly braces `{}`. 
 ```python
+name = 'Alice'
+age = 25
+print(f'My name is {name} and I am {age} years old.')
+```
+#### String Manipulation
+There are many ways to manipulate strings in Python. Some common string operations include:
+- `len()`: Returns the length of a string
+- `lower()`: Converts a string to lowercase
+- `upper()`: Converts a string to uppercase
+- `strip()`: Removes whitespace from the beginning and end of a string
+- 
