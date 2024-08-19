@@ -2,7 +2,7 @@
   "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
   "obsidian-prism-theme@@color-scheme-style-dt": "pt-color-scheme-style-two-tone-and-border-dt",
   "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-blue-dt",
-  "typomagical-colour@@background-color-enable": false,
+  "typomagical-colour@@background-color-enable": true,
   "typomagical-colour@@ss-background-color": "#363434",
   "typomagical-title@@font-title": "Bitter"
 }
