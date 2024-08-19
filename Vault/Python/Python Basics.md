@@ -34,7 +34,7 @@ In python, comments are created by using the `#` symbol. Comments are used to ex
 ## Print Command
 In Python, the "print" command is used to output to the console or terminal. The print command can be used to display text, numbers, variables, and expressions. The syntax for the print command is as follows:
 
-```
+```python
 print('Hello World')
 ```
 
@@ -45,7 +45,7 @@ Note that in order to print text, which is known as a string, text must be enclo
 ### Creating and Defining Variables
 Variables are names given to pieces of data that we want to store and manipulate in our programs. Variables can store any type of data, and unlike other programming languages, you do not usually need to declare the type of a variable in Python. Variables are created by assigning a value to a name using the `=` operator.
 
-```
+```python
 userAge = 43
 userName = 'Joel'
 ```
@@ -54,14 +54,14 @@ Once a variable is created and a value is assigned to it, the value is stored in
 
 Multiple variables can be initialized and defined in one line by separating the variables with a comma:
 
-```
+```python
 userAge, userName = 43, 'Joel'
 ```
 
 ### Naming Variables
 Variable names can only contain letters (lowercase or uppercase), numbers or underscores. However, the first character of a variable cannot be a number.
 
-```
+```python
 userName = 'John'
 user_name = 'John'
 ```
@@ -72,8 +72,8 @@ Variable names are also case sensitive, so `userName` and `UserName` would be di
 ### The Assignment Operator
 In programming, the `=` sign is called the assignment operator, because it is used to assign a value to variables. This differs from how the `=` is used in math. The `=` sign assigns the value on the right side to the variable on the left.
 
-```
-x = 5o
+```python
+x = 5
 y = 10
 x = y
 print('x =', x)
@@ -87,7 +87,7 @@ Although x has an initial value of 5 and y has an initial value of 10, the third
 ### Basic Operators
 Besides the assignment operator, Python also uses the basic mathematical operators `+`,`-`,`*`, `/`, `//`, `%`, and `**`, which represent addition, subtraction, multiplication, division, floor division, modulus, and exponent.
 
-```
+```python
 x = 5, y = 2
 
 #Addition
@@ -114,7 +114,7 @@ print(x ** y) #prints 25 (5^2 or 5*5)
 ### Shorthand Operators
 In addition to the basic math operators, Python (and other programming languages) also use shorthand operators, which combine a math operator with the assignment operator. For example, `+=` is a shorthand operator that adds the value on the right to the variable on the left. This is equivalent to `x = x + y`.
 
-```
+```python
 x = 5
 y = 2
 
