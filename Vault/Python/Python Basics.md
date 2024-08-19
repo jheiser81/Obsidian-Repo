@@ -37,8 +37,15 @@ Note that in order to print text, which is known as a string, text must be enclo
 Variables are names given to pieces of data that we want to store and manipulate in our programs. Variables can store any type of data, and unlike other programming languages, you do not usually need to declare the type of a variable in Python. Variables are created by assigning a value to a name using the `=` operator.
 
 ```
-user_Age = 43
-user_Name = 'Joel'
+userAge = 43
+userName = 'Joel'
 ```
 
-Once a variable is created and a value is assigned to it, the value is stored in memory. This variable (and its value)
+Once a variable is created and a value is assigned to it, the value is stored in memory. This variable (and its value) can then be "called" by referring to it by name. The value of a variable can also be reassigned using `=`.
+
+Multiple variables can be initialized and defined in one line by separating the variables with a comma:
+
+```
+userAge, userName = 43, 'Joel'
+```
+
