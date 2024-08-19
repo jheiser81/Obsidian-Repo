@@ -188,6 +188,7 @@ Integers are whole numbers, such as -1, 0, 1, 2, 3, etc. Integers can be positiv
 ```python
 x = 5
 y = -10
-z = int(3.14)
+z = str(20) #here z is a string
+z = int(z) #now z is an integer)
 print(x, y, z)
 ```
