@@ -13,3 +13,14 @@ print(x + y) #prints 7
 
 #Subtraction
 print(x - y) #prints 3
+
+#Multiplication
+print(x * y) #prints 10
+
+#Division
+print(x / y) #prints 2.5
+
+#Floor Division
+print(x // y) #prints 2 #floor division rounds down to the nearest whole number
+
+#Modulus

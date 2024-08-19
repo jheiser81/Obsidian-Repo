@@ -87,7 +87,18 @@ Besides the assignment operator, Python also uses the basic mathematical operato
 x = 5, y = 2
 
 #Addition
-print(x + y)
-#prints 7
+print(x + y) #prints 7
+
+#Subtraction
+print(x - y) #prints 3
+
+#Multiplication
+print(x * y) #prints 10
+
+#Division
+print(x / y) #prints 2.5
+
+#Floor Division (rounds down to the nearest whole number)
+print(x // y) #prints 2
 ```
 
