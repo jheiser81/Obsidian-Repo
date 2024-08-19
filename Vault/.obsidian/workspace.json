@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Python/Python Basics.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,8 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "open-vscode:VSCode": false
     }
   },
   "active": "81b3702dbdfbd644",

@@ -3,5 +3,6 @@
   "obsidian-git",
   "github-copilot",
   "code-styler",
-  "execute-code"
+  "execute-code",
+  "open-vscode"
 ]
