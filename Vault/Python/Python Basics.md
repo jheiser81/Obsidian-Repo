@@ -65,4 +65,17 @@ user_name = 'John'
 
 Variable names are also case sensitive, so `userName` and `UserName` would be different variables. In Python, variables are usually created using camel case or underscores. Camel case is the practice of making compound words using mixed casing (`userName`), while underscores use a `_` to separate words. Sometimes these are combined, such as in `user_Name`. Which naming convention you use is not really important, so long as you are consistent. 
 ### The Assignment Operator
-In programming, the `=` sign is called the assignment operator, because it is used to assign a value to variables. This differs from how the `=` is used in math.
+In programming, the `=` sign is called the assignment operator, because it is used to assign a value to variables. This differs from how the `=` is used in math. The `=` sign assigns the value on the right side to the variable on the left.
+
+```
+x = 5
+y = 10
+x = y
+print('x =', x)
+print('y =', y)
+```
+This code will output:
+x = 10
+y = 10 
+
+Although x has an initial value of 5 and y has an initial va, the third line assigns the value of y to x
