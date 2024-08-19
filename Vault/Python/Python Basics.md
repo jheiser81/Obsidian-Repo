@@ -135,9 +135,12 @@ print(x)
 #This will print 5.0, because x /= y is equivalent to x = x / y
 
 ```
+### Comparison Operators
 In addition to math operators, Python also uses comparison operators, such as `==`, `!=`, `>`, `<`, `>=`, and `<=`. These operators are used to compare two values and return a boolean value (True or False) based on the comparison.
 
 ```
+
+
 x = 5
 y = 2
 
@@ -160,5 +163,15 @@ print(x >= y) #prints True
 print(x <= y) #prints False
 ```
 
+### Logical Operators
+Python also uses logical operators, such as `and`, `or`, and `not`, to combine multiple conditions and return a boolean value based on the result. 
+
+```python
+x = 5
+y = 2
+z = 7
+
+#And operator (returns True if both conditions are True)
+print(x > y and x < z) #prints True
 
 
