@@ -81,5 +81,12 @@ y = 10
 
 Although x has an initial value of 5 and y has an initial value of 10, the third line assigns the value of y to x, making x = 10, while y remains unchanged.
 ### Basic Operators
-Besides the assignment operator, Python also uses the basic mathematical operators `+`,`-`,`*`, `/`, `//`, `%`, and `**`, which represent addition, subtraction, multiplication, division,
+Besides the assignment operator, Python also uses the basic mathematical operators `+`,`-`,`*`, `/`, `//`, `%`, and `**`, which represent addition, subtraction, multiplication, division, floor division, modulus, and exponent.
+
+```
+x = 5, y = 2
+
+#Addition:
+x + y 
+```
 
