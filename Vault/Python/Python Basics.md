@@ -215,3 +215,6 @@ string2 = 'World!'
 string3 = string1 + string2
 print(string3)
 ```
+
+Although concatenation is useful, it can be cumbersome and make code difficult to read, especially when working with long strings or multiple  variables of different types. For this reason, Python also supports string interpolation, or formatted strings (f-strings), which allows you to insert variables directly into a string using the `f` prefix and curly braces `{}`. 
+```python
