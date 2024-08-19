@@ -192,5 +192,8 @@ z = str(20) #here z is a string
 z = int(z) #now z is an integer)
 print(x, y, z)
 
-print(f)
+#You can check the type of a variable using the built-in type function
+print(f'{x} is of type {type(x)}')
+print(f'{y} is of type {type(y)}')
+print(f'{z} is of type {type(z)}')
 ```
