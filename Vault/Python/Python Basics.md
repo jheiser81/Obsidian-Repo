@@ -6,6 +6,7 @@
 - [[#Print Command]]
 - [[#Variables and Operators]]
 	- [[#Creating and Defining Variables]]
+	- [[#The Assignment Operator]]
 ## Comments
 
 ```
@@ -68,7 +69,7 @@ Variable names are also case sensitive, so `userName` and `UserName` would be di
 In programming, the `=` sign is called the assignment operator, because it is used to assign a value to variables. This differs from how the `=` is used in math. The `=` sign assigns the value on the right side to the variable on the left.
 
 ```
-x = 5
+x = 5o
 y = 10
 x = y
 print('x =', x)
@@ -78,4 +79,4 @@ This code will output:
 x = 10
 y = 10 
 
-Although x has an initial value of 5 and y has an initial va, the third line assigns the value of y to x
+Although x has an initial value of 5 and y has an initial value of 10, the third line assigns the value of y to x, making x = 10, while y remains unchanged.
