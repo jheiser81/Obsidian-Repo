@@ -201,3 +201,9 @@ z = 5.5
 print(x, y, z)
 ```
 ### Characters and Strings
+Characters and strings are used to represent text in Python. Characters are single letters or symbols, while strings are sequences of characters. Strings are enclosed in either single quotes ' ' or double quotes " ". Strings can contain letters, numbers, symbols, and spaces. 
+```python
+char = 'a'
+string = "Hello, World!"
+print('char\nstring')
+```
