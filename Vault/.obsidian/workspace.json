@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Python/Python Basics.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63072abee8eee96e",
+  "active": "4d3f18080260b8bd",
   "lastOpenFiles": [
     "Phil 1101/Critical Thinking Concept Guide.md",
     "Python/Python Basics.md",
