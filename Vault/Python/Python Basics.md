@@ -90,7 +90,8 @@ Although x has an initial value of 5 and y has an initial value of 10, the third
 Besides the assignment operator, Python also uses the basic mathematical operators `+`,`-`,`*`, `/`, `//`, `%`, and `**`, which represent addition, subtraction, multiplication, division, floor division, modulus, and exponent.
 
 ```python
-x = 5, y = 2
+x = 5
+y = 2
 
 #Addition
 print(x + y) #prints 7
@@ -111,7 +112,7 @@ print(x // y) #prints 2
 print(x % y) #prints 1
 
 #Exponent (raises the first number to the power of the second number)
-#print(x ** y) #prints 25 (5^2 or 5*5)
+print(x ** y) #prints 25 (5^2 or 5*5)
 ```
 ### Shorthand Operators
 In addition to the basic math operators, Python (and other programming languages) also use shorthand operators, which combine a math operator with the assignment operator. For example, `+=` is a shorthand operator that adds the value on the right to the variable on the left. This is equivalent to `x = x + y`.
@@ -162,7 +163,6 @@ print(x >= y) #prints True
 #Less than or equal to operator (checks if the first value is less than OR equal to the second)
 print(x <= y) #prints False
 ```
-
 ### Logical Operators
 Python also uses logical operators, such as `and`, `or`, and `not`, to combine multiple conditions and return a boolean value based on the result. 
 
@@ -174,6 +174,10 @@ z = 7
 #And operator (returns True if both conditions are True)
 print(x > y and x < z) #prints True
 
+#Or operator (returns True if at least one condition is True)
+print(x > y or x > z) #prints True
 
-
+#Not operator (returns True if the condition is False)
+print(not x > y) #prints False
 ```
+
